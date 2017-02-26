@@ -1,3 +1,7 @@
+镜像：https://serve.netsh.org/pub/ipv4-hosts/
+
+https://laod.cn/hosts/2017-google-hosts.html
+
 65/a/b 更换了 NASDAQ:FB 的 IP 地址。
 64/a/b 针对 FWB:GGQ1 的无分支更换了 IP 地址。
 63/a/b/c 针对 FWB:GGQ1 的分支 a更换了 IP 地址，新增分支 c。
